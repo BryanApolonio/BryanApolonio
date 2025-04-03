@@ -19,7 +19,7 @@
     
 - 🔭 I am currently working on private projects.
   
-- 🌱 I'm currently learning **Expo**
+- 🌱 I'm currently learning **C++**
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/BryanApolonio?tab=repositories)**
 
