@@ -17,7 +17,7 @@
 </div>
 <h3>A Full Stack Engineer</h3>
     
-- 🔭 I am currently working on private projects.
+- 🔭 I am currently working on private projects
   
 - 🇨 I'm currently learning **C++**
 
