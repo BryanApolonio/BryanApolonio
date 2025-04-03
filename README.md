@@ -21,13 +21,13 @@
   
 - 🌱 I'm currently learning **Expo**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/BryanApolonio?tab=repositories)
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/BryanApolonio?tab=repositories)**
 
-- 📝 I regularly write articles on [Linkedin](www.linkedin.com/in/bryanapolonio)
+- 📝 I regularly write articles on **[Linkedin](www.linkedin.com/in/bryanapolonio)**
 
 - 💬 Ask me about **PHP, CSS, Python, Ruby, SQL**
 
-- 📫 How to reach me **<Bryan.Apolonio@proton.me>**
+- 📫 How to reach me **[Proton Mail](mailto:Bryan.Apolonio@proton.me)**
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Things GIF">
