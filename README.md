@@ -15,7 +15,7 @@
 <div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Hello Gif" />
 </div>
-<a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='https://giphy.com/stickers/ortial-pc-ssd-solid-state-drive-X1nzFJ3cpeTyw9MEkk' width='250'></a>    
+<a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmduZWZ5djlza3F5cms2eGV1MmNrYXlkOHY3Z3RxdWV3ZnB4dDk0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X1nzFJ3cpeTyw9MEkk/giphy.gif' width='250'></a>    
 <h3>A Full Stack Engineer</h3>
     
 - 🔭 I am currently working on private projects
