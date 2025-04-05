@@ -15,7 +15,7 @@
 <div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Hello Gif" />
 </div>
-<a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='https://media1.giphy.com/media/EWF3gTYnvgLfAsVyu6/200.webp?cid=790b7611si97qpq78cftlvaqfupdoa63duscgz93fi3q9010&ep=v1_stickers_search&rid=200.webp&ct=s' width='300'></a>    
+<a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='https://media1.giphy.com/media/EWF3gTYnvgLfAsVyu6/200.webp?cid=790b7611si97qpq78cftlvaqfupdoa63duscgz93fi3q9010&ep=v1_stickers_search&rid=200.webp&ct=s' width='600'></a>    
 <h3>A Full Stack Engineer</h3>
     
 - 🔭 I am currently working on private projects
