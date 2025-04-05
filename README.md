@@ -32,4 +32,4 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Things GIF">
 <h3> Things I code with</h3><br>
-<p><img src="https://skillicons.dev/icons?i=html,css,js,py,php,ruby,sql,c++" /></p><br>
+<p><img src="https://skillicons.dev/icons?i=html,css,js,py,php,ruby,sql,c++,linux,git,github" /></p><br>
