@@ -26,9 +26,9 @@
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/BryanApolonio?tab=repositories)**
 
-- 💬 Ask me about **PHP, CSS, Python, Ruby, SQL**
-
 - 🌐 Always focused on **privacy** and **performance**
+
+- 💬 Ask me about **PHP, CSS, Python, Ruby, NGINX, SQL**
 
 - 🔭 Currently developing **software solutions** for **businesses**
 
