@@ -18,19 +18,19 @@
 <a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif' width='300'></a>    
 <h3>A Full Stack Engineer</h3>
 
-- 🔭 Currently developing software solutions for businesses
-  
 - 🇨 I'm currently learning **C++**
 
-- 🌐 Always focused on **privacy** and **performance**
-
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/BryanApolonio?tab=repositories)**
+- 📫 How to reach me **[Proton Mail](mailto:Bryan.Apolonio@proton.me)**
 
 - 📝 I regularly write articles on **[Linkedin](www.linkedin.com/in/bryanapolonio)**
 
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/BryanApolonio?tab=repositories)**
+
 - 💬 Ask me about **PHP, CSS, Python, Ruby, SQL**
 
-- 📫 How to reach me **[Proton Mail](mailto:Bryan.Apolonio@proton.me)**
+- 🌐 Always focused on **privacy** and **performance**
+
+- 🔭 Currently developing software solutions for businesses
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Things GIF">
