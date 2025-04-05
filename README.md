@@ -30,6 +30,9 @@
 - 📫 How to reach me **[Proton Mail](mailto:Bryan.Apolonio@proton.me)**
 
 <br/>
+
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Things GIF">
 <h3> Things I code with</h3><br>
 <p><img src="https://skillicons.dev/icons?i=html,css,js,py,php,ruby,linux,git,github" /></p><br>
