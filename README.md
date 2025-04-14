@@ -9,7 +9,6 @@
 </div>
 <span>
 <a href="https://app.daily.dev/bryanapolonio" target="_blank"><img alt="Github" align="right" width="22" src="https://cdn.simpleicons.org/daily.dev/white"/><a>
-<a href="https://www.linkedin.com/in/bryanapolonio" target="_blank"><img alt="Github" align="right" width="22" src="https://cdn.simpleicons.org/linkedin/white" /><a>
 <a href="https://github.com/BryanApolonio" target="_blank"><img alt="Github" align="right" width="22" src="https://cdn.simpleicons.org/github/white" /></a>
 </span>
 <div>
