@@ -27,7 +27,7 @@
 
 - 🌐 Always focused on **privacy** and **performance**
 
-- 💬 Ask me about **PHP, CSS, Python, Ruby, NGINX, SQL**
+- 💬 Ask me about **PHP, CSS, Python, LLM, NGINX, SQL**
 
 - 🔭 Currently developing **software solutions** for **businesses**
 
