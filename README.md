@@ -10,6 +10,7 @@
 <span>
 <a href="https://app.daily.dev/bryanapolonio" target="_blank"><img alt="Github" align="right" width="22" src="https://cdn.simpleicons.org/daily.dev/white"/><a>
 <a href="https://github.com/BryanApolonio" target="_blank"><img alt="Github" align="right" width="22" src="https://cdn.simpleicons.org/github/white" /></a>
+<a href="https://gitlab.com/BryanApolonio" target="_blank"><img alt="Github" align="right" width="22" src="https://cdn.simpleicons.org/gitlab/white" /></a>
 </span>
 <div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Hello Gif" />
@@ -17,7 +18,7 @@
 <a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif' width='290'></a>    
 <h3>A Full Stack Engineer</h3>
 
-- 🇨 I'm currently learning **C++**
+- 🇬 I'm currently learning **Git**
 
 - 📫 How to reach me **[Proton Mail](mailto:Bryan.Apolonio@proton.me)**
 
