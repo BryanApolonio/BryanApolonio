@@ -1,4 +1,4 @@
-<a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='linux.gif' width='390'></a>    
+<a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='linux.gif' width='290'></a>    
 
 <h3>A Full Stack Engineer</h3>
 
