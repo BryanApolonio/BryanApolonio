@@ -20,11 +20,12 @@
 <a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='linux.gif' width='290'></a>    
 <h3>A Full Stack Engineer</h3>
 
+
+- I help people on **[Reddit](https://www.reddit.com/user/BryanApolonio/)**
+
 - I'm currently learning **Git**
 
 - How to reach me **[Proton Mail](mailto:Bryan.Apolonio@proton.me)**
-
-- I help people on **[Reddit](https://www.reddit.com/user/BryanApolonio/)**
 
 - I regularly write articles on **[Linkedin](www.linkedin.com/in/bryanapolonio)**
 
