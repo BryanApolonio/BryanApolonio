@@ -1,7 +1,5 @@
 <h3>A Full Stack Engineer</h3>
 
-- Developing solutions for universal device compatibility.
-
 - I write technical articles and networking updates on **[Linkedin](www.linkedin.com/in/bryanapolonio)**.
 
 - All of my active projects and source code are available at **[GitHub](https://github.com/BryanApolonio?tab=repositories)**.
