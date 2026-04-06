@@ -18,21 +18,21 @@
 <a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='linux.gif' width='290'></a>    
 <h3>A Full Stack Engineer</h3>
 
-- 🇬 I'm currently learning **Git**
+- I'm currently learning **Git**
 
-- 📫 How to reach me **[Proton Mail](mailto:Bryan.Apolonio@proton.me)**
+- How to reach me **[Proton Mail](mailto:Bryan.Apolonio@proton.me)**
 
-- 📝 I regularly write articles on **[Linkedin](www.linkedin.com/in/bryanapolonio)**
+- I regularly write articles on **[Linkedin](www.linkedin.com/in/bryanapolonio)**
 
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/BryanApolonio?tab=repositories)**
+- All of my projects are available at **[GitHub](https://github.com/BryanApolonio?tab=repositories)**
 
-- 🌐 Always focused on **privacy** and **performance**
+- Always focused on **privacy** and **performance**
 
-- 💬 Ask me about **PHP, CSS, PYTHON, LLM, NGINX, SQL**
+- Ask me about **PHP, CSS, PYTHON, LLAMA.CPP, NGINX, SQL**
 
-- 🔭 Currently developing **software solutions** for **businesses**
+- Currently developing **software solutions** for **businesses**
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Things GIF">
 <h3> Things I code with</h3><br>
-<p><img src="https://skillicons.dev/icons?i=html,css,nginx,py,php,linux,git,github,debian,ai,raspberrypi,bash,mysql" /></p><br>
+<p><img src="https://skillicons.dev/icons?i=html,css,nginx,py,php,linux,github,debian,ai,raspberrypi,bash,sqlite" /></p><br>
