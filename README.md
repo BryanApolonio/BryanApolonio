@@ -37,8 +37,6 @@
 
 - Ask me about **PHP, PYTHON, LLAMA.CPP, NGINX, SQL**
 
-<br/>
-
 ---
 
 <h3> Things I code with</h3><br>
