@@ -28,7 +28,7 @@
 
 - Always focused on **privacy** and **performance**
 
-- Currently developing **software solutions** for **businesses**
+- Currently, I create simple **open-source software**
 
 - Ask me about **PHP, CSS, PYTHON, LLAMA.CPP, NGINX, SQL**
 
