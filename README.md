@@ -1,5 +1,3 @@
-<a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='linux.gif' width='290'></a>    
-
 <h3>A Full Stack Engineer</h3>
 
 - Developing solutions for universal device compatibility.
@@ -8,13 +6,13 @@
 
 - All of my active projects and source code are available at **[GitHub](https://github.com/BryanApolonio?tab=repositories)**.
 
+- I regularly contribute to the community by sharing knowledge on **[Reddit](https://www.reddit.com/user/BryanApolonio/)**.
+  
 - Ask me about PHP, Python, Llama.cpp, Nginx, SQL, and Linux Environments.
 
-- I regularly contribute to the community by sharing knowledge on **[Reddit](https://www.reddit.com/user/BryanApolonio/)**.
+- For secure communication or professional inquiries, reach me via **[Proton Mail](mailto:Bryan.Apolonio@proton.me)** .
 
 - I am deeply committed to data sovereignty and minimalist software architecture.
-
-- For secure communication or professional inquiries, reach me via **[Proton Mail](mailto:Bryan.Apolonio@proton.me)** .
 
 - I currently develop open-source software with a focus on privacy and performance.
 
