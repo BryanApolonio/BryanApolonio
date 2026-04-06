@@ -5,7 +5,7 @@
 - All of my active projects and source code are available at **[GitHub](https://github.com/BryanApolonio?tab=repositories)**.
 
 - I regularly contribute to the community by sharing knowledge on **[Reddit](https://www.reddit.com/user/BryanApolonio/)**.
-  
+
 - Ask me about PHP, Python, Llama.cpp, Nginx, SQL, and Linux Environments.
 
 - For secure communication or professional inquiries, reach me via **[Proton Mail](mailto:Bryan.Apolonio@proton.me)** .
