@@ -3,7 +3,8 @@
 <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
 </br>
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=35&pause=1000&center=true&width=435&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Bryan.)](https://git.io/typing-svg)
+</div>
+<a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='BryanApolonio.png' width='290'></a>    
 
 </span>
 </div>
