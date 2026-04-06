@@ -13,7 +13,9 @@
 <a href="https://gitlab.com/BryanApolonio" target="_blank"><img alt="Github" align="right" width="22" src="https://cdn.simpleicons.org/gitlab/white" /></a>
 </span>
 <div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Hello Gif" />
+    
+---
+
 </div>
 <a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='linux.gif' width='290'></a>    
 <h3>A Full Stack Engineer</h3>
