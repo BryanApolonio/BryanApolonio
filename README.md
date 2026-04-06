@@ -17,8 +17,3 @@
 - Currently, I create simple **open-source software**
 
 - Ask me about **PHP, PYTHON, LLAMA.CPP, NGINX, SQL**
-
----
-
-<h3> Things I code with</h3><br>
-<p><img src="https://skillicons.dev/icons?i=html,css,nginx,py,php,postgresql,linux,github,debian,ai,raspberrypi,bash" /></p><br>
