@@ -1,11 +1,5 @@
 
-<div align="center" style="margin: 22px 0; display: flex; justify-content: center; align-items: center;">
-<span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
-</br>
-    
 </div>
-<a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='BryanApolonio.png' width='290'></a>    
-
 </span>
 </div>
 <span>
