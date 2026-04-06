@@ -28,9 +28,9 @@
 
 - Always focused on **privacy** and **performance**
 
-- Ask me about **PHP, CSS, PYTHON, LLAMA.CPP, NGINX, SQL**
-
 - Currently developing **software solutions** for **businesses**
+
+- Ask me about **PHP, CSS, PYTHON, LLAMA.CPP, NGINX, SQL**
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Things GIF">
