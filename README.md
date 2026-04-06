@@ -2,18 +2,20 @@
 
 <h3>A Full Stack Engineer</h3>
 
-- I help people on **[Reddit](https://www.reddit.com/user/BryanApolonio/)**
+- Developing solutions for universal device compatibility.
 
-- I'm currently learning **Git**
+- I write technical articles and networking updates on **[Linkedin](www.linkedin.com/in/bryanapolonio)**.
 
-- How to reach me **[Proton Mail](mailto:Bryan.Apolonio@proton.me)**
+- All of my active projects and source code are available at **[GitHub](https://github.com/BryanApolonio?tab=repositories)**.
 
-- I regularly write articles on **[Linkedin](www.linkedin.com/in/bryanapolonio)**
+- Ask me about PHP, Python, Llama.cpp, Nginx, SQL, and Linux Environments.
 
-- All of my projects are available at **[GitHub](https://github.com/BryanApolonio?tab=repositories)**
+- I regularly contribute to the community by sharing knowledge on **[Reddit](https://www.reddit.com/user/BryanApolonio/)**.
 
-- Always focused on **privacy** and **performance**
+- I am deeply committed to data sovereignty and minimalist software architecture.
 
-- Currently, I create simple **open-source software**
+- For secure communication or professional inquiries, reach me via **[Proton Mail](mailto:Bryan.Apolonio@proton.me)** .
 
-- Ask me about **PHP, PYTHON, LLAMA.CPP, NGINX, SQL**
+- I currently develop open-source software with a focus on privacy and performance.
+
+- I’m currently refining my workflow with Git and exploring automated forensic analysis.
