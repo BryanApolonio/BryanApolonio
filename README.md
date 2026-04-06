@@ -1,20 +1,13 @@
-
-</div>
-</span>
-</div>
 <span>
 <a href="https://app.daily.dev/bryanapolonio" target="_blank"><img alt="Github" align="right" width="22" src="https://cdn.simpleicons.org/daily.dev/white"/><a>
 <a href="https://github.com/BryanApolonio" target="_blank"><img alt="Github" align="right" width="22" src="https://cdn.simpleicons.org/github/white" /></a>
 <a href="https://gitlab.com/BryanApolonio" target="_blank"><img alt="Github" align="right" width="22" src="https://cdn.simpleicons.org/gitlab/white" /></a>
 </span>
-<div>
     
 ---
-
-</div>
 <a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='linux.gif' width='290'></a>    
-<h3>A Full Stack Engineer</h3>
 
+<h3>A Full Stack Engineer</h3>
 
 - I help people on **[Reddit](https://www.reddit.com/user/BryanApolonio/)**
 
