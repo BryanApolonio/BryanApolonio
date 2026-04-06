@@ -17,7 +17,7 @@
 ---
 
 </div>
-<a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='linux.gif' width='290'></a>    
+<a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='linux.gif' width='280'></a>    
 <h3>A Full Stack Engineer</h3>
 
 - I'm currently learning **Git**
