@@ -1,4 +1,4 @@
-<h3>A Full Stack Engineer</h3>
+![Banner](banner.png)
 
 - I write technical articles and networking updates on **[Linkedin](www.linkedin.com/in/bryanapolonio)**.
 
